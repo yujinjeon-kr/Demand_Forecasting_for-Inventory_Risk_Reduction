@@ -1,4 +1,5 @@
-#  Retail Demand Forecasting  
+#  Demand_Forecasting_for-Inventory_Risk_Reduction
+
 ## Reducing Inventory Risk with Machine Learning
 
 ```
